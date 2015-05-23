@@ -1,7 +1,7 @@
 # Simulador de Caixa Eletrônico em Java
 
 * Um software que simula um caixa eletrônico, baseado no banco Itaú.
-Desenvolvido como um projeto da universidade (Ciência da Computação - UEPB) na disciplina de Linguagem de Programação 2.
+Desenvolvido como um projeto da universidade (Ciência da Computação - UEPB) na disciplina de Laboratório de Programação.
 
 # Importante
 
